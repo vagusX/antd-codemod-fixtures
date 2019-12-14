@@ -1,0 +1,8 @@
+{
+  "name": "antd-codemod-fixtures",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:vagusX/antd-codemod-fixtures.git",
+  "author": "vagusX <vagusxl@gmail.com>",
+  "license": "MIT"
+}
