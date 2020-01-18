@@ -26,7 +26,7 @@ const Component5 = () => {
 
 const Component6 = () => {
   return <Icon
-    type="cross-circle-0"
+    type="cross-circle-o"
   />;
 };
 
