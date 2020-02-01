@@ -13,7 +13,7 @@ const Component2 = props => {
 };
 
 const Component3 = props => {
-  return <Icon type="plus" theme="filled" />;
+  return <Icon type="plus" />;
 };
 
 const Component4 = props => {
