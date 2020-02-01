@@ -1,7 +1,7 @@
 import { Icon } from 'antd';
 
 const Component = () => {
-  return <Icon type="code" theme="filled" />;
+  return <Icon type="delete" theme="filled" />;
 };
 
 const Component1 = props => {
@@ -13,7 +13,7 @@ const Component2 = props => {
 };
 
 const Component3 = props => {
-  return <Icon type="code" theme="filled" />;
+  return <Icon type="plus" theme="filled" />;
 };
 
 const Component4 = props => {
