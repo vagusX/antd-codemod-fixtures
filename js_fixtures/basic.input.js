@@ -1,4 +1,5 @@
 import { Form, Input, Button, Mention } from 'antd';
+import { FormComponentProps } from 'antd/lib/form';
 
 class MyForm extends React.Component {
   render() {
