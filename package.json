@@ -4,5 +4,11 @@
   "main": "index.js",
   "repository": "git@github.com:vagusX/antd-codemod-fixtures.git",
   "author": "vagusX <vagusxl@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "antd": "^3.2.1",
+    "@ant-design/icons": "2.0.0",
+    "@ant-design/compatible": "^1.0.0-rc.1",
+    "@ant-design/pro-layout": "^4.0.0"
+  }
 }
