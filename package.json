@@ -8,9 +8,12 @@
   "dependencies": {
     "antd": "^3.2.1",
     "@ant-design/compatible": "^1.0.0-rc.1",
-    "@ant-design/pro-layout": "^4.0.0"
+    "@ant-design/pro-layout": "^4.0.0",
+    "@alipay/techui-form": "2.1.1",
+    "@alipay/tech-ui": "1.14.0"
   },
   "devDependencies": {
+    "@alipay/tech-ui": "1.13.0",
     "@ant-design/icons": "2.0.0",
     "@ant-design/pro-layout": "^3.0.0"
   }
